@@ -1,0 +1,32 @@
+<html>
+<head>
+
+<body bgcolor="black"><img src="E:\NIKI PROJECT\soa logo.jpg" width="200" height="200" alt="soa logo" align="left">
+<h1 align="center"><font color="red" size="12">S'O'A UNIVERSITY</font></h1>
+<h2 align="center"><font color="red" size="10">INSTITUTE OF TECHNICAL EDUCATION & RESEARCH</font></h2>
+<h3 align="center"><font color="red" size="5">Accreditted by NAAC with 'A' Grade</font></h3><br>
+
+<img src="E:\NIKI PROJECT\ce.jpg" width="200" height="200" alt="civil dept." align="right"><br>
+<p><font color="red" size="12"><a href="ce.htm ">Civil Engingeering</a></font></p><br><br>
+
+<img src="E:\NIKI PROJECT\cs.jpg" width="400" height="200" alt="computer science dept." align="right"><br>
+<p><font color="red" size="12"><a href="cs.htm">Computer Science & Engineering</a></font></p><br><br>
+
+<p><font color="red" size="12"><a href="it.htm">Computer Science & Information Technology</a></font></p><br><br>
+<img src="E:\NIKI PROJECT\ece.jpg" width="400" height="200" alt="ECE dept." align="right">
+
+<p><font color="red" size="12"><a href="ee.htm">Electrical Engineering</a></font></p><br><br>
+
+<p><font color="red" size="12"><a href="eee.htm">Electrical & Electronics Engineering</a></font></p><br><br>
+
+<p><font color="red" size="12"><a href="ece.htm">Electronics & Communication Engineering</a></font></p><br><br>
+
+<img src="E:\NIKI PROJECT\mech.jpg" width="400" height="200" alt="mechanical dept." align="right">
+<p><font color="red" size="12"><a href="me.htm">Mechanical Engingeering</a></font></p><br><br>
+
+<FORM METHOD="LINK" ACTION="nalcoprjct.htm">
+<INPUT TYPE="submit" VALUE="Back">
+</FORM>
+</head>
+</body>
+</html>
