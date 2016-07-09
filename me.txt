@@ -1,0 +1,19 @@
+<html>
+<head>
+
+<body bgcolor="black"><img src="E:\NIKI PROJECT\soa logo.jpg" width="200" height="200" alt="soa logo" align="left">
+<h1 align="center"><font color="red" size="12">S'O'A UNIVERSITY</font></h1>
+<h2 align="center"><font color="red" size="10">INSTITUTE OF TECHNICAL EDUCATION & RESEARCH</font></h2>
+<h3 align="center"><font color="red" size="5">Accreditted by NAAC with 'A' Grade</font></h3><br>
+
+<h3 align="center"><font color="white" size="6"><u>MECHANICAL ENGINEERING</u></font></h3>
+<h3 align="left"><font color="white" size="5">  </font></h3>
+
+<img src="E:\NIKI PROJECT\me.jpg" width="200" height="200" alt="mechanical students of iter" align="left">
+<FORM METHOD="LINK" ACTION="dept.htm">
+<INPUT TYPE="submit" VALUE="Back">
+</FORM>
+
+</head>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<body bgcolor="black"><img src="E:\NIKI PROJECT\soa logo.jpg" width="200" height="200" alt="soa logo" align="left">
+<h1 align="center"><font color="red" size="12">S'O'A UNIVERSITY</font></h1>
+<h2 align="center"><font color="red" size="10">INSTITUTE OF TECHNICAL EDUCATION & RESEARCH</font></h2>
+<h3 align="center"><font color="red" size="5">Accreditted by NAAC with 'A' Grade</font></h3>
+
+<h3 align="center"><font color="white" size="6"> PLACEMENT</font></h3>
+<h4><font color="white" size="5"> Ever since its inception, the Placement Cell of ITER has created its impression by striking a right balance between academics and industry.It strongly believes in the adage, “Nothing less than the industry best”. Its constant endeavour in preparing its graduating engineers and MCA graduates in the field of technology has been an epitome of success over a period of time. 
+
+The placement cell, guided by a Professor is committed to provide the young techies for a successful career In the industry of their choice. Having proved its mettle in providing talented professionals as per the needs of the various sectors, the cell provides a well developed holistic training in order to upgrade the students' technical, aptitude as well as communication skills on a regular basis to make them “corporate ready”.
+
+ITER has signed an MOU with Infosys Technologies under the Infosys Campus Connect program to train the final year students. We are proud to be honoured with the Certificate of Accredition by Wipro Technologies as a “trusted academic partner”. Starting 2011, “Project Campus” , has also been piloted ,an initiative of Wipro technologies which TRAINING & PLACEMENT similarly aims at training its new recruits .We have also signed an MOU with Hexaware Technologies to establish a nodal centre at ITER referred to as the Hexaware Academic Centre for Excellence (HACE). ITER has been able to appropriately meet the sudden demand in the automobile sector from companies such as Honda Motors, Ashok Leyland,TVS motors, Mahindra & Mahindra , having signed an MOU with Mahindra & Mahindra.
+
+We are proud of having successfully placed 403 candidates of 2011 pass-out batch in TCS , with a record breaking achievement of about 94 % students clearing the on-line test conducted by TCS,the highest among all the other institutes across the Country, a landmark in the education circle. Yet another feather in our cap is Ashok Leyland having offered the highest pay package of Rs. 7.5 lakh per annum to 4 of our Mechanical engineering students.
+
+“Its just the beginning”, that is what we at ITER strongly
+believe in.
+
+Contact Information: Dr. Raj Hota,</font></h4><br><br>
+
+<FORM METHOD="LINK" ACTION="nalcoprjct.htm">
+<INPUT TYPE="submit" VALUE="Back">
+</FORM>
+</head>
+</body>
+</html>
+

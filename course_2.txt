@@ -1,0 +1,44 @@
+
+<html>
+<head>
+
+<body bgcolor="black"><img src="E:\NIKI PROJECT\soa logo.jpg" width="200" height="200" alt="soa logo" align="left">
+<h1 align="center"><font color="red" size="12">S'O'A UNIVERSITY</font></h1>
+<h2 align="center"><font color="red" size="10">INSTITUTE OF TECHNICAL EDUCATION & RESEARCH</font></h2>
+<h3 align="center"><font color="red" size="5">Accreditted by NAAC with 'A' Grade</font></h3><br><br>
+
+<h4 align="left"><font color="white" size="12"><u> COURSES OFFERED</u> </font></h4>
+<h4><font color="white" size="6">UNDERGRADUATE COURSES
+B.TECH</font></h4>
+<ul>
+  <li><font color="white" size="6">Biotechnology</font></li>
+  <li><font color="white" size="6">Civil Engineering</font></li>
+  <li><font color="white" size="6">Computer Science & Engineering</font></li>
+   <li><font color="white" size="6">Computer Science & Information Technology</font></li>
+<li><font color="white" size="6">Electrical Engineering</font></li>
+<li><font color="white" size="6">Electrical & Electronics Engineering</font></li>
+<li><font color="white" size="6">Electronics & Communication Engineering</font></li>
+<li><font color="white" size="6">Mechanical Engineering</font></li>
+</ul>
+
+<h4><font color="white" size="6">B.TECH LATERAL ENTRY</font></h4>
+<ul>
+  <li><font color="white" size="6">In all above B.Tech. Programmes</font></li>
+</ul>
+
+<h4><font color="white" size="6">DUAL DEGREES IN ENGG.</font></h4>
+<ul>
+  <li><font color="white" size="6">B.Tech & M.Tech</font></li>
+</ul>
+
+<h4><font color="white" size="6">DOCTORAL PROGRAMME</font></h4>
+<ul>
+  <li><font color="white" size="6">Ph.D in all Engineering Branches, Science, Humanities & Social Sciences.</font></li>
+</ul>
+
+<FORM METHOD="LINK" ACTION="admission.htm">
+<INPUT TYPE="submit" VALUE="Back">
+</FORM>
+</head>
+</body>
+</html>
